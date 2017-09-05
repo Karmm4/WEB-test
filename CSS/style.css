@@ -1,0 +1,27 @@
+*
+{
+	color: #EEEEEE;
+}
+
+
+body
+{
+	background: url("../img/background.jpg") fixed;
+	font-family: Georgia, Arial, serif;
+}
+
+p:hover
+{
+	color: rgb(247, 249, 112);
+}
+
+a:visited
+{
+	color: rgb(220, 126, 221);
+}
+
+h1
+{
+	color: rgb(233, 83, 37);
+	font-size: x-large;
+}
